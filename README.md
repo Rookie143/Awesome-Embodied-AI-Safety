@@ -77,6 +77,8 @@ If you find this repository useful, please consider STARing this list.
 
 * "ROSClaw: An OS-level Safety Framework for Embodied AI", Open-source Project, `A MuJoCo-based digital-twin safety layer that validates agent actions before execution on ROS 2 / real hardware`, [[code](https://github.com/ros-claw/rosclaw)] [[website](https://www.rosclaw.io/)]
 
+* "LEASH: Stay Safe in Agentic Robotics", arXiv 2026, `A safety benchmark (RoboRisk: 92 simulated + 13 real-robot tasks) and a lease-based guardrail with task, action and commit gates for LLM robot planners`, [[pdf](https://arxiv.org/abs/2611.14115)] [[code](https://github.com/zhuqinfeng1999/LEASH)] [[website](https://zhuqinfeng1999.github.io/LEASH/)]
+
 
 
 
