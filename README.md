@@ -2,7 +2,7 @@
 
 A curated list of publications on safety in Embodied AI, including topics like adversarial attacks, alignment, backdoor, jailbreak, prompt injection, surveys, and safety frameworks.
 
-<strong>Last Update: Jun. 8th, 2026</strong>.
+<strong>Last Update: Nov. 11th, 2026</strong>.
 
 #### Please feel free to send me [pull requests](https://github.com/ZhangHangTao/Awesome-Embodied-AI-Safety/blob/main/how-to-PR.md) or [email](mailto:zhanghangtao7@163.com) to add papers! <br>
 
@@ -11,17 +11,14 @@ If you find this repository useful, please consider STARing this list.
 ---
 ## Overview
 
-  - [Surveys](#Surveys)
   - [Jailbreak Attack and Defense](#Jailbreak-Attack-and-Defense)
   - [Adversarial Attack and Defense](#Adversarial-Attack-and-Defense)
   - [Backdoor Attack and Defense](#Backdoor-Attack-and-Defense)
   - [Prompt Injection Attack and Defense](#Prompt-Injection-Attack)
   - [Alignment and Safety Frameworks](#Alignment-and-Safety-Frameworks)
+  - [Surveys](#Surveys)
 
 ---
-## Surveys
-* "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses", *Arxiv 2026*, [[pdf](https://arxiv.org/abs/2605.02900)]
-* "Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks", *Arxiv 2025*, [[pdf](https://arxiv.org/abs/2502.13175)]
 
 
 ## Jailbreak Attack and Defense
@@ -80,6 +77,9 @@ If you find this repository useful, please consider STARing this list.
 * "LEASH: Stay Safe in Agentic Robotics", arXiv 2026, `A safety benchmark (RoboRisk: 92 simulated + 13 real-robot tasks) and a lease-based guardrail with task, action and commit gates for LLM robot planners`, [[pdf](https://arxiv.org/abs/2611.14115)] [[code](https://github.com/zhuqinfeng1999/LEASH)] [[website](https://zhuqinfeng1999.github.io/LEASH/)]
 
 
+## Surveys
+* "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses", *Arxiv 2026*, [[pdf](https://arxiv.org/abs/2605.02900)]
+* "Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks", *Arxiv 2025*, [[pdf](https://arxiv.org/abs/2502.13175)]
 
 
 
